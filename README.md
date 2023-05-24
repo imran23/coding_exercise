@@ -11,3 +11,5 @@ The articles are posted on medium.com
 [Coding Series: Sorting Algorithms](https://medium.com/@ibhaidani/coding-interview-series-exploring-sorting-algorithms-bf90871f718b)
 
 [Coding Series: String Manipulation](https://medium.com/@ibhaidani/coding-interview-series-mastering-string-manipulation-in-java-25226d8bd3a5)
+
+[Coding Series: Binary Trees]()
