@@ -1,6 +1,6 @@
 # coding_exercise
 Coding examples from my articles.
-The articles are posted on medium.com
+The articles are posted on [medium.com](https://medium.com/@ibhaidani/mastering-coding-exercises-a-path-to-interview-success-for-software-developers-398dabbbd612)
 
 
 
